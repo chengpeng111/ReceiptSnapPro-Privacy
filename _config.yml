@@ -1,0 +1,8 @@
+title: ReceiptSnap Pro 隐私政策
+description: ReceiptSnap Pro 收据快拍专业版 - 隐私政策页面
+baseurl: ""
+url: "https://chengpeng111.github.io/ReceiptSnapPro-Privacy"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
